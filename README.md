@@ -22,7 +22,7 @@ Within the Julia REPL run:
 
 ```julia
 using Pkg
-Pkg.add(PackageSpec(url="https://github.com/lassepe/iLQGames.jl"))
+Pkg.add(PackageSpec(url="https://github.com/mshafaie8/iLQGames"))
 ```
 
 ## Example
